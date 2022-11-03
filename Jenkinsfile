@@ -1,6 +1,6 @@
 pipeline{
     environment {
-        registry = "joshg15/taxcalc"
+        registry = "joshg15/taxacalc"
         registryCredentials = "dockerhub_id"
         dockerImage = ""
     }
